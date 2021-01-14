@@ -1,0 +1,2 @@
+C:\Users\Gediminas\Documents\Visual Studio 2019\Projects\KMDFRust\Debug\KMDFRust.sys
+C:\Users\Gediminas\Documents\Visual Studio 2019\Projects\KMDFRust\Debug\KMDFRust.pdb

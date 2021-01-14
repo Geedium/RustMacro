@@ -1,0 +1,23 @@
+﻿  Building 'KMDFRust' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping Debug\KMDFRust.inf
+  Stamping [Version] section with DriverVer=01/14/2021,2.9.49.214
+  Entry.cpp
+  KMDFRust.vcxproj -> C:\Users\Gediminas\Documents\Visual Studio 2019\Projects\KMDFRust\Debug\KMDFRust.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Gediminas\Documents\Visual Studio 2019\Projects\KMDFRust\Debug\KMDFRust.sys
+  
+  Driver is a Universal Driver.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\Gediminas\Documents\Visual Studio 2019\Projects\KMDFRust\Debug\KMDFRust\kmdfrust.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Gediminas\Documents\Visual Studio 2019\Projects\KMDFRust\Debug\KMDFRust\kmdfrust.cat
+  
